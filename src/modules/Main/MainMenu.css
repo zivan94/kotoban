@@ -1,0 +1,30 @@
+body {
+  background: #f1faee;
+}
+
+.content {
+  text-align: center;
+}
+
+.content > .caption {
+  font-size: xxx-large;
+  font-weight: bolder;
+  color: #e63946;
+  width: 100%;
+  margin: auto;
+}
+
+.main-menu-item {
+  text-align: center;
+  padding: 20px;
+  background: #a8dadc;
+  margin: 10px 0px;
+  font-weight: 700;
+  font-size: x-large;
+  display: block;
+  color: #f1faee;
+}
+
+.main-menu-item:hover {
+  background: #457b9d;
+}

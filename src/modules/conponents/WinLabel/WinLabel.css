@@ -1,0 +1,27 @@
+.bubble {
+  position: absolute;
+  font-family: sans-serif;
+  line-height: 24px;
+  width: 100px;
+  top: -53px;
+  left: -15px;
+  background: #a8dadc;
+  border-radius: 40px;
+  padding: 8px;
+  text-align: center;
+  font-weight: 700;
+  color: #0a0000;
+}
+
+.bubble-bottom-left:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 12px solid #a8dadc;
+  border-right: 7px solid #8175e800;
+  border-top: 8px solid #a8dadc;
+  border-bottom: 20px solid #8175e800;
+  left: 21px;
+  bottom: -17px;
+}

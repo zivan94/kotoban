@@ -1,0 +1,7 @@
+.cell {
+  width: 32px;
+  height: 32px;
+  display: block;
+  font-size: x-large;
+  position: absolute;
+}

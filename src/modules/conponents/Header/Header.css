@@ -1,0 +1,11 @@
+header {
+  height: 60px;
+  line-height: 60px;
+  background: #1d3557;
+}
+
+header > .label {
+  color: #f1faee;
+  padding-left: 20px;
+  font-size: x-large;
+}

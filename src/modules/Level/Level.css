@@ -1,0 +1,11 @@
+.states {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding-left: 65px;
+}
+
+.states>span {
+  font-size: x-large;
+}
